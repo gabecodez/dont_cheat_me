@@ -1,3 +1,6 @@
+# Filename: text_sim.py
+# Author: Gabriel Sullivan
+
 #Imports Math expressions
 import math
 
